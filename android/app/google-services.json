@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822201491207",
+    "project_id": "practicamov1",
+    "storage_bucket": "practicamov1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822201491207:android:824d6f102576e32a252fa2",
+        "android_client_info": {
+          "package_name": "com.example.authenticacion_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV6a41SA2WFmKhzNDUgQkUwcH_wnpnog8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822201491207:android:653b3e287066c603252fa2",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV6a41SA2WFmKhzNDUgQkUwcH_wnpnog8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
